@@ -1,0 +1,13 @@
+/* style.css - 如果需要額外調整 */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  header {
+    background: linear-gradient(90deg, #ff9f43, #ff6f61);
+  }
+  
+  footer {
+    background: #333;
+  }
+  
